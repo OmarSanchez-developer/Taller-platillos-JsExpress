@@ -3,6 +3,8 @@ API Javascript , Express con metodos PUT añadir paltillos y Get para consultar 
 
 instalamos nodejs y express
 -npm init -y (Creamos paquete .json
+instalamos node nodules.
+
 -node index.js
 nodemon index.js (nodemon sirve para actualizar cualquier cambio de la aplicación en el servidor)
 
