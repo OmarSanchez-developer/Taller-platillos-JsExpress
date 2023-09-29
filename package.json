@@ -1,0 +1,15 @@
+{
+  "name": "taller-platillos",
+  "version": "1.0.0",
+  "description": "API put & Get para agregar platillos con express ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Omar González",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
